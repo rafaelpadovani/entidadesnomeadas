@@ -9,6 +9,6 @@ Para rodar o programa basta:
 
 O arquivo anotado vai para dentro da pasta 'anotados'
 
-No arquivo AnotadorEnt.py basta passar caminho desta pasta 'anotados' na variável text2.
+No arquivo AnotadorEnt.py basta passar caminho desta pasta 'anotados' na variável 'text2'.
 
 obs: todos os arquivos devem estar na mesma pasta

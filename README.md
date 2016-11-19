@@ -1,7 +1,9 @@
 # entidadesnomeadas
 Classificador de Entidades Nomeadas Baseado em Regras
 
-Para o exemplo foi utilizada uma ata das reuniões do Comitê de Política Monetária (COPOM)
+Para o exemplo foi utilizada uma ata das reuniões do Comitê de Política Monetária (COPOM) do Banco Central do Brasil
+
+Classificação para PESSOA, LUGAR e ORGANIZAÇÃO.
 
 Para rodar o programa basta:
 

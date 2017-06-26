@@ -1,18 +1,14 @@
-# entidadesnomeadas
-Classificador de Entidades Nomeadas Baseado em Regras
+# namedentities
+Rule-Based Named Entities Classifier
 
-Para o exemplo foi utilizada uma ata das reuniões do Comitê de Política Monetária (COPOM) do Banco Central do Brasil
+Example using notes from Comitê de Política Monetária (COPOM) of Banco Central do Brasil.
 
-Classificação para PESSOA, LUGAR e ORGANIZAÇÃO.
+This system classifies PERSON(Pessoa), PLACE(Lugar) e ORGANIZAÇÃO(Organization).
 
-Para rodar o programa basta:
+Running a simple test:
 
-1 - Ir até pasta utilizando linha de comando do terminal.
+Run: python3 AnotadorEnt.py filename.txt
 
-2 - Passar o comando: python3 AnotadorEnt.py filename.txt
+See 'anotados' folder.
 
-O arquivo anotado vai para dentro da pasta 'anotados'
-
-No arquivo AnotadorEnt.py basta passar caminho desta pasta 'anotados' na variável 'text2'.
-
-obs: todos os arquivos devem estar na mesma pasta
+In the AnotadorEnt.py file give the path 'anotados' folder into the 'text2' variable.

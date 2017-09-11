@@ -3,7 +3,7 @@ Rule-Based Named Entities Classifier
 
 Example using notes from Comitê de Política Monetária (COPOM) of Banco Central do Brasil.
 
-This system classifies PERSON(Pessoa), PLACE(Lugar) e ORGANIZAÇÃO(Organization).
+This system classifies PERSON(Pessoa), PLACE(Lugar) e ORGANIZATION(Organização).
 
 Running a simple test:
 
